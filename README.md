@@ -1,3 +1,4 @@
 # Hello-github
 start to use github seriously.
-get in an make a little chang.^~^
+
+get in and make a little chang.^~^
